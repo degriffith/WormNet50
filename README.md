@@ -61,9 +61,12 @@ proceed as such:
 
 	The remaining scripts are for specialized analysis. Briefly:
 
-	test_individual_worm.py -- Create single worm scatterplot; add regression prediction to csv file.
-	loess_prediction.py -- Single worm scatterplot + LOESS curve; averaged LOESS quintiles.
-	make_worm_movie.py -- Create a timelapse movie of a single worm using the worm-frame perspective.
+	test_individual_worm.py -- Create single worm scatterplot; add regression prediction to csv file
+	
+	loess_prediction.py -- Single worm scatterplot + LOESS curve; averaged LOESS quintiles
+	
+	make_worm_movie.py -- Create a timelapse movie of a single worm using the worm-frame perspective
+	
 
 For additional information about this pipeling and previous findings, refer to the powerpoint in
 lugia_array in the folder /Griffith_Dan/figures/presentation/

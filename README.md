@@ -1,4 +1,5 @@
 Authors: Dan Griffith, Zach Pincus (zplab)
+
 Project: CNN for deep phenotypic analysis of C. elegans -- DG Rotation project
 
 The files in this repository are intended to be used in a C. elegans deep learning phenotypical 
